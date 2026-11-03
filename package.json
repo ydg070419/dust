@@ -1,0 +1,12 @@
+{
+  "name": "dust-app",
+  "version": "1.0.0",
+  "description": "실시간 대기오염 정보 반응형 웹앱",
+  "main": "server.mjs",
+  "type": "module",
+  "scripts": {
+    "start": "node server.mjs",
+    "dev": "node server.mjs"
+  }
+}
+
